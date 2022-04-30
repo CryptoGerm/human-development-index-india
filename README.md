@@ -16,13 +16,13 @@ Step 7 - Creating &  showing graphs using graphics.h.<br>
 ### Datasets Used
 
 * Health –<br>
-	- Life Expectancy	- Infant Mortality Rate<br>
+	- Life Expectancy, Infant Mortality Rate<br>
 * Education –
-	- Literacy Rate		- Dropout Rate
+	- Literacy Rate, Dropout Rate
 * Economy –
-	- Unemployment Rate	- Income per capita
+	- Unemployment Rate, Income per capita
 * Crime –
-	- Murder	- Rape		- Minor		- Major
+	- Murder, Rape, Minor, Major
 
 
 ### Future Scope
