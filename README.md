@@ -5,7 +5,7 @@ We as a nation have come a long way since independence and have to go a long way
 
 ### Methodology
 
-Step 1 - Collection of required data from verified sources.
+Step 1 - Collection of required data from verified sources.<br>
 Step 2 - Cleaning of data and replacing 0 or null values with most suitable values like mean or mode from dataset.
 Step 3 - Assigning weights after calculation using FAHP model (explained in later slides).
 Step 4 - Reading data from datasets, multiplying weights with data values and adding them to calculate score.
